@@ -1,0 +1,20 @@
+QPushButton#m_buttonNext
+{
+    border-image:url(:/image/music/下一曲1.png);
+}
+
+QPushButton#m_buttonPlayPause
+{
+    border-image:url(:/image/music/开始.png);
+}
+
+QPushButton::checked#m_buttonPlayPause
+{
+    border-image:url(:/image/music/暂停.png);
+}
+QPushButton#m_buttonPrevious
+{
+    border-image:url(:/image/music/上一曲1.png);
+}
+
+

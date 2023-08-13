@@ -1,0 +1,12 @@
+INPUT(
+./debug\backgroundwidget.o
+./debug\goosethread.o
+./debug\main.o
+./debug\musicwidget.o
+./debug\widget.o
+./debug\qrc_res.o
+./debug\moc_backgroundwidget.o
+./debug\moc_goosethread.o
+./debug\moc_musicwidget.o
+./debug\moc_widget.o
+);

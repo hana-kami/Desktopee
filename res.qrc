@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background/goose.png</file>
+        <file>image/background/goose1.png</file>
+        <file>image/background/goose.gif</file>
+        <file>image/music/开始.png</file>
+        <file>image/music/上一曲1.png</file>
+        <file>image/music/上一曲2.png</file>
+        <file>image/music/下一曲1.png</file>
+        <file>image/music/下一曲2.png</file>
+        <file>image/music/暂停.png</file>
+        <file>Gooseqss.qss</file>
+        <file>music/music.mp3</file>
+    </qresource>
+</RCC>

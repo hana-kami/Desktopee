@@ -1,0 +1,12 @@
+INPUT(
+./release\backgroundwidget.o
+./release\goosethread.o
+./release\main.o
+./release\musicwidget.o
+./release\widget.o
+./release\qrc_res.o
+./release\moc_backgroundwidget.o
+./release\moc_goosethread.o
+./release\moc_musicwidget.o
+./release\moc_widget.o
+);
